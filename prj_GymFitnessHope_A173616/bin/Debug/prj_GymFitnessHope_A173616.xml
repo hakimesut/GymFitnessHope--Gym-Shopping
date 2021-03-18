@@ -1,0 +1,111 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+prj_GymFitnessHope_A173616
+</name>
+</assembly>
+<members>
+<member name="T:prj_GymFitnessHope_A173616.My.Resources.Resources">
+<summary>
+  A strongly-typed resource class, for looking up localized strings, etc.
+</summary>
+</member>
+<member name="P:prj_GymFitnessHope_A173616.My.Resources.Resources.ResourceManager">
+<summary>
+  Returns the cached ResourceManager instance used by this class.
+</summary>
+</member>
+<member name="P:prj_GymFitnessHope_A173616.My.Resources.Resources.Culture">
+<summary>
+  Overrides the current thread's CurrentUICulture property for all
+  resource lookups using this strongly typed resource class.
+</summary>
+</member>
+<member name="P:prj_GymFitnessHope_A173616.My.Resources.Resources._100_1006093_a_red_cape_among_white_ones_customer_satisfaction">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:prj_GymFitnessHope_A173616.My.Resources.Resources._360_F_119597487_SnvLBdheEGOxu05rMQ5tCzo250cRrTz9">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:prj_GymFitnessHope_A173616.My.Resources.Resources.blurred_background_rows_black_dumbbells_rack_gym_42687_402">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:prj_GymFitnessHope_A173616.My.Resources.Resources.cartoon_background_home_gym_with_window_1441_2776">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:prj_GymFitnessHope_A173616.My.Resources.Resources.Customer_Supprt">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:prj_GymFitnessHope_A173616.My.Resources.Resources.gym_weights_dumbbell_sports_weight_dumbbells_sports_competition_512">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:prj_GymFitnessHope_A173616.My.Resources.Resources.icon_customers_customer_icon_11563506628qpu3czucoo">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:prj_GymFitnessHope_A173616.My.Resources.Resources.images">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:prj_GymFitnessHope_A173616.My.Resources.Resources.mobile_account_512">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:prj_GymFitnessHope_A173616.My.Resources.Resources.old_black_background_grunge_texture_dark_wallpaper_blackboard_chalkboard_room_wall_1258_28313">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:prj_GymFitnessHope_A173616.My.Resources.Resources.old_black_background_grunge_texture_dark_wallpaper_blackboard_chalkboard_room_wall_1258_283131">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:prj_GymFitnessHope_A173616.My.Resources.Resources.preview16">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:prj_GymFitnessHope_A173616.My.Resources.Resources.purchase_order">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:prj_GymFitnessHope_A173616.My.Resources.Resources.sport_club_gym_spacious_interior_cartoon_vector_with_various_fitness_equipment_machines_body_workout_33099_1297">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:prj_GymFitnessHope_A173616.My.Resources.Resources.unnamed">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:prj_GymFitnessHope_A173616.My.Resources.Resources.v475_katie_101_abstractblackandwhitebg_1">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:prj_GymFitnessHope_A173616.My.Resources.Resources.vector_cartoon_background_gym_with_big_window_1441_2904">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+</members>
+</doc>
